@@ -19,5 +19,5 @@
 17. []()
 18. [PCA](18-pca.ipynb)
 19. []()
-20. []()
+20. [MDS](20-mds.ipynb)
 21. [t-SNE](21-tsne.ipynb)

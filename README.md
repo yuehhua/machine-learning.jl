@@ -9,7 +9,7 @@
 7. [Decision tree](07-decision-tree.ipynb)
 8. [Random forest](08-random-forest.ipynb)
 9. []()
-10. []()
+10. [SVM](10-svm.ipynb)
 11. [k-means](11-k-means.ipynb)
 12. [k-medoids](12-k-medoids.ipynb)
 13. []()

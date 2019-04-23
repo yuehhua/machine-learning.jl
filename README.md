@@ -22,3 +22,7 @@
 20. [MDS](20-mds.ipynb)
 21. [t-SNE](21-tsne.ipynb)
 22. [Non-negative matrix factorization](22-nmf.ipynb)
+23. []()
+24. []()
+25. []()
+26. [K-fold cross validation](26-k-fold-cross-validation.ipynb)

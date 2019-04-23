@@ -12,7 +12,7 @@
 10. [SVM](10-svm.ipynb)
 11. [k-means](11-k-means.ipynb)
 12. [k-medoids](12-k-medoids.ipynb)
-13. []()
+13. [Heirarchical clustering](13-heirarchical-clustering.ipynb)
 14. []()
 15. []()
 16. []()
@@ -21,3 +21,4 @@
 19. []()
 20. [MDS](20-mds.ipynb)
 21. [t-SNE](21-tsne.ipynb)
+22. [Non-negative matrix factorization](22-nmf.ipynb)

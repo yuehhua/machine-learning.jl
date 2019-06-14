@@ -14,7 +14,7 @@
 12. [k-medoids](12-k-medoids.ipynb)
 13. [Heirarchical clustering](13-heirarchical-clustering.ipynb)
 14. []()
-15. []()
+15. [DBSCAN](15-dbscan.ipynb)
 16. []()
 17. []()
 18. [PCA](18-pca.ipynb)

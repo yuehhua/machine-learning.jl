@@ -8,21 +8,25 @@
 6. [Naive Bayes](06-naive-bayes.ipynb)
 7. [Decision tree](07-decision-tree.ipynb)
 8. [Random forest](08-random-forest.ipynb)
-9. []()
+9. Adaboost
 10. [SVM](10-svm.ipynb)
-11. [k-means](11-k-means.ipynb)
-12. [k-medoids](12-k-medoids.ipynb)
-13. [Heirarchical clustering](13-heirarchical-clustering.ipynb)
-14. []()
-15. [DBSCAN](15-dbscan.ipynb)
-16. []()
-17. []()
-18. [PCA](18-pca.ipynb)
-19. []()
-20. [MDS](20-mds.ipynb)
-21. [t-SNE](21-tsne.ipynb)
-22. [Non-negative matrix factorization](22-nmf.ipynb)
-23. []()
-24. []()
-25. []()
-26. [K-fold cross validation](26-k-fold-cross-validation.ipynb)
+11. kNN
+12. [k-means](11-k-means.ipynb)
+13. [k-medoids](12-k-medoids.ipynb)
+14. [Heirarchical clustering](13-heirarchical-clustering.ipynb)
+15. MCL
+16. [DBSCAN](15-dbscan.ipynb)
+17. Affinity propagation
+18. Fuzzy c-means
+19. [PCA](18-pca.ipynb)
+20. IDA
+21. [MDS](20-mds.ipynb)
+22. [t-SNE](21-tsne.ipynb)
+23. [Non-negative matrix factorization](22-nmf.ipynb)
+24. Probablistic PCA
+25. Kernel PCA
+26. ICA
+27. [UMAP](27-umap.ipynb)
+28. [Diffusion map]()
+29. [K-fold cross validation](26-k-fold-cross-validation.ipynb)
+30. MLJ

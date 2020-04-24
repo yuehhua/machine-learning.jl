@@ -10,7 +10,7 @@
 8. [Random forest](08-random-forest.ipynb)
 9. Adaboost
 10. [SVM](10-svm.ipynb)
-11. kNN
+11. [kNN](11-knn.ipynb)
 12. [k-means](11-k-means.ipynb)
 13. [k-medoids](12-k-medoids.ipynb)
 14. [Heirarchical clustering](13-heirarchical-clustering.ipynb)

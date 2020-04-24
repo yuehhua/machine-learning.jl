@@ -4,7 +4,7 @@
 2. [Logistic regression](02-logistic-regression.ipynb)
 3. [Poisson regression](03-poisson-regression.ipynb)
 4. [LASSO regression](04-lasso-regression.ipynb)
-5. [Ridge regression]()
+5. [Ridge regression](05-ridge-regression.ipynb)
 6. [Naive Bayes](06-naive-bayes.ipynb)
 7. [Decision tree](07-decision-tree.ipynb)
 8. [Random forest](08-random-forest.ipynb)

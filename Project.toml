@@ -1,0 +1,27 @@
+name = "machine-learning"
+uuid = "e8c187e0-3fc5-46d7-a4c3-13ce3796bf58"
+authors = ["Yueh-Hua Tu"]
+version = "0.1.0"
+
+[deps]
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+LIBSVM = "b1bec4e5-fd48-53fe-b0cb-9723c09d164b"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+MLJClusteringInterface = "d354fa79-ed1c-40d4-88ef-b8c7bd1568af"
+MLJDecisionTreeInterface = "c6f25543-311c-4c74-83dc-3ea6d1015661"
+MLJGLMInterface = "caf8df21-4939-456d-ac9c-5fefbfb04c0c"
+MLJLIBSVMInterface = "61c7150f-6c77-4bb1-949c-13197eac2a52"
+MLJLinearModels = "6ee0df7b-362f-4a72-a706-9e79364fb692"
+MLJModelInterface = "e80e1ace-859a-464e-9ed9-23947d8ae3ea"
+MLJMultivariateStatsInterface = "1b6a4a23-ba22-4f51-9698-8599985d3728"
+NearestNeighborModels = "636a865e-7cf4-491e-846c-de09b730eb36"
+RDatasets = "ce6b1742-4840-55fa-b093-852dadbb1d8b"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

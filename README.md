@@ -1,5 +1,8 @@
 # Machine Learning
 
+[![Build Status](https://github.com/yuehhua/machine-learning.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/yuehhua/machine-learning.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Coverage](https://codecov.io/gh/yuehhua/machine-learning.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/yuehhua/machine-learning.jl)
+
 ## Supervised Learning
 
 ### Regression
